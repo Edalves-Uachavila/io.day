@@ -14,7 +14,7 @@
 # We recommend you to use CNAME records.
 # Please add custom domain in this zone.
 CNAME records:
-  - name: geeges
+  - name: geeges 
     value: dss.ictservice.ca
   - name: toybox
     value: charliebunt.github.io
